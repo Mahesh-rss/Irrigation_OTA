@@ -70,7 +70,7 @@ float wattstotal, disp_pf_avg, vatotal, varphase, vayphase, vabphase, vllavg, vr
 const char* version_url = "https://raw.githubusercontent.com/Mahesh-rss/Irrigation_OTA/main/version.txt";
 /*Firmware URL*/
 //const char* firmware_url = "https://raw.githubusercontent.com/NandeepYadav/Test_OTA/main/Irrigation_WiFi.ino.bin";
-const char* firmware_url = "https://raw.githubusercontent.com/Mahesh-rss/Irrigation_OTA/main/irrigation_updated_code.ino.bin";
+const char* firmware_url = "https://raw.githubusercontent.com/Mahesh-rss/Irrigation_OTA/main/build/esp32.esp32.esp32/irrigation_updated_code.ino.bin";
 // Current firmware version
 const String currentVersion = "2.4";
 
