@@ -72,7 +72,7 @@ const char* version_url = "https://raw.githubusercontent.com/Mahesh-rss/Irrigati
 //const char* firmware_url = "https://raw.githubusercontent.com/NandeepYadav/Test_OTA/main/Irrigation_WiFi.ino.bin";
 const char* firmware_url = "https://raw.githubusercontent.com/Mahesh-rss/Irrigation_OTA/main/irrigation_updated_code.ino.bin";
 // Current firmware version
-const String currentVersion = "2.3";
+const String currentVersion = "2.4";
 
 Preferences preferences;
 
